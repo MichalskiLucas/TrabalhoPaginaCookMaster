@@ -82,13 +82,14 @@ body {
 }
 
 .receitas {
-    text-align: center;
+    text-align: initial;
+    margin-left: 16%;
     font-family: 'Jacques Francois', sans-serif;
 }
 
 .carousel {
     max-width: 40%;
-    margin-left: 30%;
+    margin-left: 7%;
 }
 
 .carouselImage {
@@ -139,4 +140,14 @@ body {
     font-size: 15px;
     font-family: 'Jacques Francois', sans-serif;
     text-justify: initial;
+}
+
+.astroChef{
+    margin-left: 60%;
+}
+
+.Astro{
+    text-align: initial;
+    margin-left: 30%;
+    font-family: 'Jacques Francois', sans-serif;
 }
